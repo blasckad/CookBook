@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Снимок экрана 2023-06-22 в 16.13.51.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

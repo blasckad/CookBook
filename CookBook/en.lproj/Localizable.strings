@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  CookBook
+
+  Created by Матвей Кузнецов on 02.06.2023.
+  
+*/
+
+"Home" = "Home";
+"New for you" = "New for you";
+"Recipes by Category" = "Recipes by Category";
+"Button" = "Button";
+"Add to Saved" = "Add to Saved";
+"Remove from Saved" = "Remove from Saved";
+"Recipe" = "Recipe";
+"Ingredients" = "Ingredients";
+"Method" = "Method";
+"Saved" = "Saved";
+"search" = "search";
+"Search" = "Search";
+"Recent" = "Recent";
