@@ -2,7 +2,7 @@
 
 # App to view, save and search recipes
 
-<img src="[Images/MainScreen.png](https://github.com/blasckad/CookBook/assets/105739005/991e6a31-14d6-4c42-9ba9-a4c5511d2dda)" alt="Screenshot of the list of contests" height="600" />
+<img src="![Simulator Screenshot - iPhone 14 Pro - 2023-07-17 at 00 35 34]https://github.com/blasckad/CookBook/assets/105739005/991e6a31-14d6-4c42-9ba9-a4c5511d2dda)" height="600" />
 
 ![Simulator Screenshot - iPhone 14 Pro - 2023-07-17 at 00 35 34](https://github.com/blasckad/CookBook/assets/105739005/991e6a31-14d6-4c42-9ba9-a4c5511d2dda)
 
